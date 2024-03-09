@@ -55,7 +55,7 @@
 #### As a pro
 
 #### As a student
-![Student Technologies](https://skillicons.dev/icons?i=vim,bash,linux,emacs,c,cpp,docker,wordpress,css,ts,react,html,git&theme=light)
+![Student Technologies](https://skillicons.dev/icons?i=vim,emacs,linux,yarn,debian,ubuntu,bash,c,cpp,docker,wordpress,python,react,threejs,ts,css,html,git&theme=light&perline=6)
 
 #### Tools
 
