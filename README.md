@@ -22,7 +22,7 @@
 ##### 📁 42 Projects I am most proud of: 
 * [Ft_irc](https://github.com/malatinipro/ft_irc): A Slack ancestor reproduced with @bahaas and @qdam in C++ (98)
 * [Minishell](https://github.com/malatinipro/minishell): A bash interpreter written in C thanks to @ttranche help
-* [Push_Swap](https://github.com/malatinipro/push_swap) A custom sorter algorithm using linked lists in C, with the help of @ttanche too.
+* [Push_Swap](https://github.com/malatinipro/push_swap) A custom sorter algorithm using linked lists in C, with the help of @ttranche too.
 * [So long](https://github.com/malatinipro/so_long) A 2D game using the MLX library. Thanks @labintei for the textures' design !
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 ##### Projects I have been working since graduating : 
 * [Greenly SaaS](https://greenly.earth/fr-fr) Worked on Greenly SaaS (React JS + Retool, Node JS), top committer in 2023 (first full year).
-  > Check out my technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test)
-  > Checkout out my Greenly pro account [here] (https://github.com/malatinigreenly)
-  > I am currently on parental leave, that is why I have been inactive there
+  > Check out my technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test).
+> Checkout out my Greenly pro account [here] (https://github.com/malatinigreenly).
+> I am currently on parental leave, that is the reason why I have been inactive there.
 * Worked on secret scrapper scripts with Axios and Puppeteer
 
 ##### Future projects
