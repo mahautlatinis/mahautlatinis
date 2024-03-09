@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mahaut%20Victoria%20Latinis&textBg=false&fontAlign=50&animation=fadeIn&fontColor=E9E9E9&fontSize=50&descAlign=50&section=header&reversal=false" />
 
+# Who am I 
+- 🙋🏻‍♀️ French 28 years old mom living in Versailles
+- 💼 Working remotely at Greenly as a Software Engineer since 2022
+- 🖥️ Learned programming at 42 Paris in 2021
+- 🏢 ex-Deloitte consultant specialized in Salesforce Marketing Cloud
+- 🎓 Graduated from ESSCA Management School
+- 🎗️ Supporting women to enter the industry
+- ✉️ Reach me at: mahautlatinis@outlook.com 
+
 
 |Github Statistics|Streaks|Languages|
 |-|-|-|
