@@ -41,13 +41,23 @@
  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3a5342c6-a8bf-4c86-828a-8f41d3cd71c3.png?&w=3840" width=80px height=80px />
 </p>
 
-##### Projects I have been working since graduating : 
-* [Greenly SaaS](https://greenly.earth/fr-fr) Worked on Greenly SaaS (React JS + Retool, Node JS), top committer in 2023 (first full year).
-  > Check out my technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test).
-> Checkout out my [Greenly pro account](https://github.com/malatinigreenly) (currently in parental leave).
+##### Projects I have been working since graduating: 
+* [Greenly SaaS](https://greenly.earth/fr-fr): Working on Greenly SaaS (React JS + Retool, Node JS), top committer in 2023 (first full year).
+  > My technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test).
+> [Greenly pro account](https://github.com/malatinigreenly) (currently in parental leave).
 * Worked on secret scrapper scripts with Axios and Puppeteer
 
 ##### Future projects
 * 🎨 My portfolio (WIP)
 * 📸 A photographer's portfolio (based in Brussels)
-* 🤫 Secret Business project 
+* 🤫 Secret Business project
+
+#### Technologies as a professional
+
+#### Technologie as a student 
+![Student Technologies](https://skillicons.dev/icons?i=vim,bash,linux,emacs,c,cpp,docker,wordpress,php,mysql,css,ts,react,npm,postman,html,git)
+
+#### Tools
+
+#### About to dig / Learn
+
