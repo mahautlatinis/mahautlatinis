@@ -15,9 +15,7 @@
 * 🎗️ Supporting women to enter the tech industry
 * ✉️ Reach me at: mahautlatinis@outlook.com
 
-<div style="position:relative;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px alt="42 logo" style="top: 50%;left: 50%; transform: translateX(-50%); translateY(-50%); position:absolute" />
-</div>
+![42](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png){ width="80" height="80" style="display: block; margin: 0 auto" }
 
 ##### 📁 42 Projects I am most proud of: 
 * [Ft_irc](https://github.com/malatinipro/ft_irc): A Slack ancestor reproduced with @bahaas and @qdam in C++ (98)
