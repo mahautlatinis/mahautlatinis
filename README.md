@@ -52,10 +52,10 @@
 * 📸 A photographer's portfolio (based in Brussels)
 * 🤫 Secret Business project
 
-#### Technologies as a professional
+#### As a pro
 
-#### Technologie as a student 
-![Student Technologies](https://skillicons.dev/icons?i=vim,bash,linux,emacs,c,cpp,docker,wordpress,php,mysql,css,ts,react,npm,postman,html,git)
+#### As a student
+![Student Technologies](https://skillicons.dev/icons?i=vim,bash,linux,emacs,c,cpp,docker,wordpress,css,ts,react,html,git)
 
 #### Tools
 
