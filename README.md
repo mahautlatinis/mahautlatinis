@@ -25,8 +25,17 @@
       <img src="https://github-readme-stats.vercel.app/api/pin?username=malatinipro&repo=FT_IRC&theme=apprentice" />
     </p>
 * [Minishell](https://github.com/malatinipro/minishell): A bash interpreter written in C thanks to **@ttranche** help
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=malatinipro&repo=MINISHELL&theme=apprentice" />
+    </p>
 * [Push_Swap](https://github.com/malatinipro/push_swap) A custom sorter algorithm using linked lists in C, with the help of **@ttranche** too.
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=malatinipro&repo=PUSH_SWAP&theme=apprentice" />
+    </p>
 * [So long](https://github.com/malatinipro/so_long) A 2D game using the MLX library. Thanks **@labintei** for the textures' design !
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=malatinipro&repo=SO_LONG&theme=apprentice" />
+  </p>
 
 <p align="center">
  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3a5342c6-a8bf-4c86-828a-8f41d3cd71c3.png?&w=3840" width=80px height=80px />
