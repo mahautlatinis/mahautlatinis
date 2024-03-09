@@ -56,7 +56,7 @@
 ![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,react,tailwind,next,vercel,mui,cypress,vite,sentry,graphql&theme=light)
 
 #### As a student
-![Student Technologies](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,python,js,ts,css,html,git,react,vim,bash&theme=light)
+![Student Technologies](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,python,js,ts,css,html,git,react,bash&theme=light)
 
 #### Tools
 
