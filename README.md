@@ -15,9 +15,9 @@
 * 🎗️ Supporting women to enter the tech industry
 * ✉️ Reach me at: mahautlatinis@outlook.com
 
-<figure align="center">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px/>
-</figure>
+</p>
 
 ##### 📁 42 Projects I am most proud of: 
 * [Ft_irc](https://github.com/malatinipro/ft_irc): A Slack ancestor reproduced with @bahaas and @qdam in C++ (98)
