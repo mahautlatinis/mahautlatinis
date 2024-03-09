@@ -53,6 +53,7 @@
 * 🤫 Secret Business project
 
 #### As a pro
+![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,react,tailwind,next,vercel,mui,cypress,vite,sentry,graphql&theme=light)
 
 #### As a student
 ![Student Technologies](https://skillicons.dev/icons?i=vim,emacs,linux,yarn,debian,ubuntu,bash,c,cpp,docker,wordpress,python,react,threejs,ts,css,html,git&theme=light&perline=6)
