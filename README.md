@@ -2,7 +2,7 @@
 
 |Github Statistics|Streaks|Languages|
 |-|-|-|
-|[![Mahaut's github stats](https://github-readme-stats.vercel.app/api?username=mahautlatinis&show_icons=true&theme=dark&hide_title=true)](https://github.com/mahautlatinis)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mahautlatinis&theme=dark)|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahautlatinis&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/mahautlatinis)
+|[![Mahaut's github stats](https://github-readme-stats.vercel.app/api?username=mahautlatinis&show_icons=true&theme=apprentice&hide_title=true)](https://github.com/mahautlatinis)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mahautlatinis&theme=apprentice)|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahautlatinis&show_icons=true&theme=apprentice&layout=compact&hide_title=true)](https://github.com/mahautlatinis)
 
 ##### Introduction 
 
