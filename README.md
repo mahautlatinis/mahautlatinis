@@ -32,6 +32,8 @@
 ##### Projects I have been working since graduating : 
 * [Greenly SaaS](https://greenly.earth/fr-fr) Worked on Greenly SaaS (React JS + Retool, Node JS), top committer in 2023 (first full year).
   > Check out my technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test)
+  > Checkout out my Greenly pro account [here] (https://github.com/malatinigreenly)
+  > I am currently on parental leave, that is why I have been inactive there
 * Worked on secret scrapper scripts with Axios and Puppeteer
 
 ##### Future projects
