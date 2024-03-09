@@ -16,7 +16,7 @@
 * ✉️ Reach me at: mahautlatinis@outlook.com
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px />
 </p>
 
 ##### 📁 42 Projects I am most proud of: 
@@ -24,6 +24,10 @@
 * [Minishell](https://github.com/malatinipro/minishell): A bash interpreter written in C thanks to @ttranche help
 * [Push_Swap](https://github.com/malatinipro/push_swap) A custom sorter algorithm using linked lists in C, with the help of @ttanche too.
 * [So long](https://github.com/malatinipro/so_long) A 2D game using the MLX library. Thanks @labintei for the textures' design !
+
+<p align="center">
+ <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3a5342c6-a8bf-4c86-828a-8f41d3cd71c3.png?&w=3840" width=80px height=80px />
+</p>
 
 ##### Projects I have been working since graduating : 
 * [Greenly SaaS](https://greenly.earth/fr-fr) Worked on Greenly SaaS (React JS + Retool, Node JS), top committer in 2023 (first full year).
