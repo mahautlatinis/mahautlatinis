@@ -59,7 +59,7 @@
 ![Student Technologies](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,python,js,ts,css,html,git,react,bash&theme=light)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=vim,github,githubactions,stackoverflow,pnpm,notion,aws,gmail,figma,postman,vscode,vscodium,linkedin,discord,heroku,flow&theme=light)
+![Tools](https://skillicons.dev/icons?i=vim,github,githubactions,stackoverflow,pnpm,notion,aws,gmail,figma,postman,vscode,heroku&theme=light)
 
 #### About to dig / Learn
 
