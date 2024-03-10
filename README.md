@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mahaut%20Victoria%20Latinis&textBg=false&fontAlign=50&animation=fadeIn&fontColor=E9E9E9&fontSize=50&descAlign=50&section=header&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mahaut%20Latinis&section=header&fontAlign=50&desc=Backend%20Engineer&textBg=false&fontSize=47&descAlign=55)
 
 |Github Statistics|Streaks|Languages|
 |-|-|-|
@@ -52,7 +52,7 @@
 * 📸 A photographer's portfolio (based in Brussels)
 * 🤫 Secret Business project
 
-##### I worked with as a pro 
+##### Pro Stack
 ![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,react,tailwind,next,vercel,mui,cypress,vite,sentry,graphql&theme=light)
 <!---
 ##### As a student
@@ -60,4 +60,6 @@
 ##### Tools
 -->
 ![Tools](https://skillicons.dev/icons?i=vim,github,githubactions,stackoverflow,pnpm,notion,aws,gmail,figma,postman,vscode,heroku&theme=light)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlign=49)
 
