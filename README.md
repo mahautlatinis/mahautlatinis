@@ -53,13 +53,11 @@
 * 🤫 Secret Business project
 
 ##### Pro Stack
-![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,react,tailwind,next,vercel,mui,cypress,vite,sentry,graphql&theme=light)
+![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,jest&theme=light)
 <!---
-##### As a student
 ![Student Technologies](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,python,js,ts,css,html,git,react,bash&theme=light)
-##### Tools
+![Tools](https://skillicons.dev/icons?i=github,githubactions,gmail,figma,heroku&theme=light)
 -->
-![Tools](https://skillicons.dev/icons?i=vim,github,githubactions,stackoverflow,pnpm,notion,aws,gmail,figma,postman,vscode,heroku&theme=light)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlign=49)
 
