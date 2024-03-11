@@ -44,11 +44,7 @@
 * [Greenly SaaS](https://greenly.earth/fr-fr): Working at Greenly (React JS + Retool, Node JS), top committer in 2023 (first full year).
   > My technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test).
 > [Greenly pro account](https://github.com/malatinigreenly) (currently in parental leave).
-* Worked on secret scrapper (Node / Puppeteer)
-
-##### Future projects
-* 🎨 My portfolio (WIP)
-* 🤫 Secret Business project
+* Worked on a secret scrapper (Node / Puppeteer)
 
 ##### Greenly stack
 ![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,jest&theme=light)
