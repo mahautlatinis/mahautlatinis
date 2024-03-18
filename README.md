@@ -1,3 +1,4 @@
+![helloWorld](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&center=true&width=435&lines=Hello+World!)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mahaut%20Latinis&section=header&fontAlign=50&desc=Backend%20Engineer&textBg=false&fontSize=47&descAlign=55)
 
 |Github Statistics|Streaks
