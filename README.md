@@ -1,5 +1,4 @@
-![helloWorld](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&center=true&width=435&lines=Hello+World!)
-![header](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&lines=Hello+World!)
+![helloWorld](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&lines=Hello+World!)
 
 |Github Statistics|Streaks
 |-|-
