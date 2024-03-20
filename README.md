@@ -8,7 +8,6 @@
 ##### Introduction 
 
 * 🙋🏻‍♀️ French 28 years old mom living in Versailles
-* 📑 Check out my [resume](https://mahautlatinis.github.io/portfolio/cv/en/Mahaut_Latinis_EN.pdf)
 * 💼 Working remotely at Greenly as a Software Engineer since 2022
 * 🖥️ Learned programming at 42 Paris in 2021
 * 🏢 ex-Deloitte consultant specialized in Salesforce Marketing Cloud
