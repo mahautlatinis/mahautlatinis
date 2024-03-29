@@ -32,6 +32,7 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=malatini42&repo=PUSH_SWAP&theme=apprentice" />
     </p>
+<!---
 * [So long](https://github.com/malatini42/so_long): A 2D game using the MLX library. Thanks **@labintei** for the textures' design !
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=malatinipro&repo=SO_LONG&theme=apprentice" />
@@ -39,7 +40,6 @@
 <p align="center">
  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3a5342c6-a8bf-4c86-828a-8f41d3cd71c3.png?&w=3840" width=80px height=80px />
 </p>
-<!---
 ##### Projects I have been working on since graduating: 
 * [Greenly SaaS](https://greenly.earth/fr-fr): Working at Greenly (React JS + Retool, Node JS), top committer in 2023 (first full year).
   > My technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test).
