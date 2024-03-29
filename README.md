@@ -1,9 +1,9 @@
 ![helloWorld](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&lines=Hello+World!)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mahaut%20Latinis&section=header&fontAlign=50&desc=Software%20Engineer&textBg=false&fontSize=47&descAlign=55)
 
-|Github Statistics|Streaks
-|-|-
-|[![Mahaut's github stats](https://github-readme-stats.vercel.app/api?username=mahautlatinis&show_icons=true&theme=apprentice&hide_title=true)](https://github.com/mahautlatinis)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mahautlatinis&theme=apprentice)
+|Streaks
+|-
+|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mahautlatinis&theme=apprentice)
 
 ##### Introduction 
 
