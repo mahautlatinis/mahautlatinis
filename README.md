@@ -39,16 +39,14 @@
 <p align="center">
  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3a5342c6-a8bf-4c86-828a-8f41d3cd71c3.png?&w=3840" width=80px height=80px />
 </p>
-
+<!---
 ##### Projects I have been working on since graduating: 
 * [Greenly SaaS](https://greenly.earth/fr-fr): Working at Greenly (React JS + Retool, Node JS), top committer in 2023 (first full year).
   > My technical interview in React (using contexts) [here](https://github.com/mahautlatinis/react-front-home-test).
 > [Greenly pro account](https://github.com/malatinigreenly) (currently in parental leave).
 * Worked on a secret scrapper (Node / Puppeteer)
-
 ##### Greenly stack
 ![Pro tech](https://skillicons.dev/icons?i=nodejs,express,postgres,jest&theme=light)
-<!---
 ![Student Technologies](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,python,js,ts,css,html,git,react,bash&theme=light)
 ![Tools](https://skillicons.dev/icons?i=github,githubactions,gmail,figma,heroku&theme=light)
 -->
