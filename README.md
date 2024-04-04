@@ -7,13 +7,10 @@
 
 ##### Introduction 
 
-* 🙋🏻‍♀️ French 28 years old mom living in Versailles
 * 💼 Working remotely at Greenly as a Software Engineer since 2022
 * 🖥️ Learned programming at 42 Paris in 2021
 * 🏢 ex-Deloitte consultant specialized in Salesforce Marketing Cloud
 * 🎓 Graduated from ESSCA Management School in 2019
-* 🎗️ Supporting women to enter the tech industry
-* ✉️ Reach me at: mahautlatinis@outlook.com
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px />
