@@ -7,8 +7,10 @@
 
 ##### Introduction 
 
+* 🍼 Currently in parental leave
 * 💼 Working remotely at Greenly as a Software Engineer since 2022
 * 🖥️ Learned programming at 42 Paris in 2021
+* 🎓 Certified Digital Entrepreneur by HEC Paris
 * 🏢 ex-Deloitte consultant specialized in Salesforce Marketing Cloud
 * 🎓 Graduated from ESSCA Management School in 2019
 
