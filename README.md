@@ -26,10 +26,6 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=malatini42&repo=MINISHELL&theme=apprentice" />
     </p>
-* [Push_Swap](https://github.com/malatini42/push_swap): A custom sorter algorithm using linked lists in C, with the help of **@ttranche** too.
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=malatini42&repo=PUSH_SWAP&theme=apprentice" />
-    </p>
 <!---
 * [So long](https://github.com/malatini42/so_long): A 2D game using the MLX library. Thanks **@labintei** for the textures' design !
   <p align="center">
