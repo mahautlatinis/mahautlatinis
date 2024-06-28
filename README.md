@@ -1,5 +1,10 @@
+<!--
 ![helloWorld](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&lines=Hello+World!)
+-->
+
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mahaut%20Latinis&section=header&fontAlign=50&desc=Software%20Engineer&textBg=false&fontSize=47&descAlign=55)
+-->
 
 <!--
 |Streaks
@@ -53,5 +58,7 @@
 ![Student Technologies](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,python,js,ts,css,html,git,react,bash&theme=light)
 ![Tools](https://skillicons.dev/icons?i=github,githubactions,gmail,figma,heroku&theme=light)
 -->
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&fontAlign=49)
+-->
 
