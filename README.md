@@ -17,9 +17,11 @@
 * 🏢 ex-Deloitte consultant specialized in Salesforce Marketing Cloud
 * 🎓 Graduated from ESSCA Management School in 2019
 
+<!--
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px />
 </p>
+-->
 
 <!--
 ##### 📁 42 Projects I am most proud of: 
