@@ -21,6 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px />
 </p>
 
+<!--
 ##### 📁 42 Projects I am most proud of: 
 * [Ft_irc](https://github.com/malatini42/ft_irc): A Slack ancestor reproduced with **@bahaas** and **@qdam** in C++ (98)
     <p align="center">
@@ -30,6 +31,8 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=malatini42&repo=MINISHELL&theme=apprentice" />
     </p>
+-->
+
 <!---
 * [So long](https://github.com/malatini42/so_long): A 2D game using the MLX library. Thanks **@labintei** for the textures' design !
   <p align="center">
