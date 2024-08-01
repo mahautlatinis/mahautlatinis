@@ -16,7 +16,6 @@
 
 ##### Introduction 
 
-* 🍼 Currently in parental leave
 * 🖥️ Learned programming at 42 School
 * 🎓 Certified Digital Entrepreneur by HEC Paris 
 * 🏢 ex-Deloitte analyst
