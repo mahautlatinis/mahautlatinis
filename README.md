@@ -16,9 +16,11 @@
 
 ##### Introduction 
 
-* 🖥️ Learned programming at 42 School
-* 🎓 Certified Digital Entrepreneur by HEC Paris 
-* 🏢 ex-Deloitte analyst
+* 💌 J'écris des articles sur Medium
+* 👩🏻‍💻 Je continue d'apprendre au quotidien 
+* 🖥️ J'ai appris à coder à l'école 42
+* 🤓 Certifiée "Digital Entrepreneur" à HEC
+* 🏢 ex consultante (Deloitte)
 
 <!--
 <p align="center">
