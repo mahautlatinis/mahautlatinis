@@ -14,13 +14,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahautlatinis&theme=apprentice&hide_border=true&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
 
-##### Introduction 
+##### Actualités
 
-* 💌 J'écris des articles sur Medium
-* 👩🏻‍💻 Je continue d'apprendre au quotidien 
-* 🖥️ J'ai appris à coder à l'école 42
-* 🤓 Certifiée "Digital Entrepreneur" à HEC
-* 🏢 ex consultante (Deloitte)
+* 💌 J'écris des articles sur Medium, partagés ici en markdown
+* 👩🏻‍💻 Je continue d'apprendre au quotidien et je crée moi-même des tutoriels
 
 <!--
 <p align="center">
