@@ -16,8 +16,10 @@
 
 ##### Actualités
 
-* 💌 J'écris des articles sur Medium, partagés ici en markdown
-* 👩🏻‍💻 Je continue d'apprendre au quotidien et je crée moi-même des tutoriels
+* 👩🏻‍💻 2024: Formation au quotidien et écriture d'articles
+* 🤰🏻 2023: Naissance de mon garçon
+* 👷🏻‍♀️ 2022: Signature d'un premier CDI en tant que dev fullstack
+* 👩🏻‍🏫 2021: Formation à l'école 42
 
 <!--
 <p align="center">
