@@ -16,7 +16,7 @@
 
 ##### Actualités
 
-* 👩🏻‍💻 2024: Formation au quotidien et écriture d'articles
+* 👩🏻‍💻 2024: Formation continue et écriture d'articles tech
 * 🤰🏻 2023: Naissance de mon garçon
 * 👷🏻‍♀️ 2022: Signature d'un premier CDI en tant que dev fullstack
 * 👩🏻‍🏫 2021: Formation à l'école 42
