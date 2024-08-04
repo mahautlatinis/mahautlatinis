@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahautlatinis&theme=apprentice&hide_border=true&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
 
-##### Actualités
+##### Temps forts 
 
 * 👩🏻‍💻 2024: Formation continue et écriture d'articles tech
 * 🤰🏻 2023: Naissance de mon garçon
