@@ -15,19 +15,6 @@
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahautlatinis/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mahautlatinis/#gh-dark-mode-only)
 
-##### Situation
-```mermaid
-    stateDiagram-v2
-        State1: Mère au foyer
-        note right of State1
-            Mode de garde
-        end note
-        State2: Indie Hacker
-        State1 --> State2
-        note left of State2: Ambition
-
-```
-
 <!--START_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
