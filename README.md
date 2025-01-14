@@ -9,9 +9,7 @@
 ###       ### ###     ### ########## ###     ### ###     ########### ###    #### ###########       
 
 ```
-# Activity
 <!--START_SECTION:activity-->
 
-# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
