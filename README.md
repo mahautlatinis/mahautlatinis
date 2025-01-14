@@ -9,6 +9,16 @@
 ###       ### ###     ### ########## ###     ### ###     ########### ###    #### ###########       
 
 ```
+
+### Connect with me:
+
+[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/mikecodeur#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahautlatinis/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mahautlatinis/#gh-dark-mode-only)
+
 <!--START_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
