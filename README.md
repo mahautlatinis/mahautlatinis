@@ -9,10 +9,8 @@
 ###       ### ###     ### ########## ###     ### ###     ########### ###    #### ###########       
 
 ```
-# Activity
 <!--START_SECTION:activity-->
 
-# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Drizzle : L’ORM minimaliste](https://mahautlatinis.medium.com/drizzle-lorm-minimaliste-ad9ce686a4d7?source=rss-1b2e93e61379------2)
 - [React 18 : Nouveautés](https://mahautlatinis.medium.com/react-18-nouveaut%C3%A9s-559b0c514fcd?source=rss-1b2e93e61379------2)
