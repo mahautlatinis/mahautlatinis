@@ -10,6 +10,7 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    if: ${{ false }}  # currently stopped due to lake of time for writing blog posts 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
